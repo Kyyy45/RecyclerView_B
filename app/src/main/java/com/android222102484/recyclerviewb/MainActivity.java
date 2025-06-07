@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         _refreshButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                loadRecyclerView();
+
             }
         });
     }
