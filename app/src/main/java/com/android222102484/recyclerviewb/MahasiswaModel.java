@@ -4,7 +4,7 @@ public class MahasiswaModel
 {
     private String NIM, Nama, JenisKelamin, JP;
 
-    private MahasiswaModel() {
+    public MahasiswaModel() {
 
     }
 

@@ -19,7 +19,7 @@ public class MahasiswaViewHolder extends RecyclerView.ViewHolder
         _jkTextView = itemView.findViewById(R.id.jkTextView);
         _jpTextView = itemView.findViewById(R.id.jpTextView);
         _namaTextView = itemView.findViewById(R.id.namaTextView);
-        _nimTextView = itemView.findViewById(R.id.nimeTextView);
+        _nimTextView = itemView.findViewById(R.id.nimTextView);
         _noTextView = itemView.findViewById(R.id.noTextView);
     }
 }
